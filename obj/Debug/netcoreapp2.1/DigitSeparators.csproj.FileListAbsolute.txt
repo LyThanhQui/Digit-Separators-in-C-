@@ -1,0 +1,11 @@
+H:\demo dotnettutorials\3. C# 7.X new Features\DigitSeparators\DigitSeparators\bin\Debug\netcoreapp2.1\DigitSeparators.deps.json
+H:\demo dotnettutorials\3. C# 7.X new Features\DigitSeparators\DigitSeparators\bin\Debug\netcoreapp2.1\DigitSeparators.runtimeconfig.json
+H:\demo dotnettutorials\3. C# 7.X new Features\DigitSeparators\DigitSeparators\bin\Debug\netcoreapp2.1\DigitSeparators.runtimeconfig.dev.json
+H:\demo dotnettutorials\3. C# 7.X new Features\DigitSeparators\DigitSeparators\bin\Debug\netcoreapp2.1\DigitSeparators.dll
+H:\demo dotnettutorials\3. C# 7.X new Features\DigitSeparators\DigitSeparators\bin\Debug\netcoreapp2.1\DigitSeparators.pdb
+H:\demo dotnettutorials\3. C# 7.X new Features\DigitSeparators\DigitSeparators\obj\Debug\netcoreapp2.1\DigitSeparators.csprojAssemblyReference.cache
+H:\demo dotnettutorials\3. C# 7.X new Features\DigitSeparators\DigitSeparators\obj\Debug\netcoreapp2.1\DigitSeparators.csproj.CoreCompileInputs.cache
+H:\demo dotnettutorials\3. C# 7.X new Features\DigitSeparators\DigitSeparators\obj\Debug\netcoreapp2.1\DigitSeparators.AssemblyInfoInputs.cache
+H:\demo dotnettutorials\3. C# 7.X new Features\DigitSeparators\DigitSeparators\obj\Debug\netcoreapp2.1\DigitSeparators.AssemblyInfo.cs
+H:\demo dotnettutorials\3. C# 7.X new Features\DigitSeparators\DigitSeparators\obj\Debug\netcoreapp2.1\DigitSeparators.dll
+H:\demo dotnettutorials\3. C# 7.X new Features\DigitSeparators\DigitSeparators\obj\Debug\netcoreapp2.1\DigitSeparators.pdb
